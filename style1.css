@@ -1,0 +1,21 @@
+body {
+background-color: rgb(95, 95, 95);
+color:rgb(125, 178, 224) ;
+}
+  
+h1 {
+color: navy;
+margin-left: 20px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+#redir {
+    font-size: 50px;
+    text-align: center;
+    display: block;
+}
